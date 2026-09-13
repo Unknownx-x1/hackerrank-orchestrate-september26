@@ -1,0 +1,82 @@
+{
+  "event_253": {
+    "image_id": "image_01",
+    "amount": 4365000.0,
+    "currency": "IDR"
+  },
+  "event_1442": {
+    "image_id": "image_02",
+    "amount": 100000.0,
+    "currency": "INR"
+  },
+  "event_1545": {
+    "image_id": "image_03",
+    "amount": 41272.0,
+    "currency": "INR"
+  },
+  "event_1700": {
+    "image_id": "image_04",
+    "amount": 2854.0,
+    "currency": "INR"
+  },
+  "event_1786": {
+    "image_id": "image_05",
+    "amount": 704.05,
+    "currency": "INR"
+  },
+  "event_3051": {
+    "image_id": "image_06",
+    "amount": 1995.0,
+    "currency": "INR"
+  },
+  "event_3231": {
+    "image_id": "image_07",
+    "amount": 8528.1,
+    "currency": "INR"
+  },
+  "event_4535": {
+    "image_id": "image_08",
+    "amount": 15339.0,
+    "currency": "INR"
+  },
+  "event_5170": {
+    "image_id": "image_09",
+    "amount": 723.0,
+    "currency": "INR"
+  },
+  "event_6033": {
+    "image_id": "image_10",
+    "amount": 79679.26,
+    "currency": "INR"
+  },
+  "event_6859": {
+    "image_id": "image_11",
+    "amount": 3650.0,
+    "currency": "INR"
+  },
+  "event_7307": {
+    "image_id": "image_12",
+    "amount": 33.5,
+    "currency": "USD"
+  },
+  "event_7941": {
+    "image_id": "image_13",
+    "amount": 2298.0,
+    "currency": "INR"
+  },
+  "event_9421": {
+    "image_id": "image_14",
+    "amount": 4543.0,
+    "currency": "INR"
+  },
+  "event_9806": {
+    "image_id": "image_15",
+    "amount": 9968.0,
+    "currency": "INR"
+  },
+  "event_10521": {
+    "image_id": "image_16",
+    "amount": 393.22,
+    "currency": "INR"
+  }
+}
