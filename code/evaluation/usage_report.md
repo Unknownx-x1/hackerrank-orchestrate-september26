@@ -5,7 +5,7 @@
 This report provides a comprehensive breakdown of model invocations, prompt/completion tokens, and computational cost for the final evaluation run producing `output.csv`.
 
 - **Dataset Size**: 250 requests
-- **Execution Time**: 2.51 seconds (0.01s per request)
+- **Execution Time**: 2.78 seconds (0.01s per request)
 - **Model Provider**: Ollama (Local)
 - **Model Name**: gemma3:4b
 - **Execution Environment**: Local Ollama runtime (deterministic hybrid pipeline)
